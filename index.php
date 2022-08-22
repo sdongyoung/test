@@ -1,4 +1,5 @@
 <?php
-echo 'a';
+echo 'b';
+echo "test commit";
 exit;
 ?>
